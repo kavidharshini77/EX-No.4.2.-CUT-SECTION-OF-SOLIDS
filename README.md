@@ -47,3 +47,4 @@ To create the solid model from given drawing and section the solid model
 Thus, the cut section for solid model is created.
 
 
+<img width="1020" height="723" alt="SHUNMATHI EXERCISE 4 2" src="https://github.com/user-attachments/assets/74e81a29-8198-462c-81c5-6443096edb92" />
